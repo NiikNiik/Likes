@@ -1,0 +1,73 @@
+.container{
+    
+} 
+.top-nav{
+    background-color: black;
+    color:white;
+    height: 50px;
+}
+
+.Your-Feed{
+    display:flex;
+    justify-content: center;
+}
+
+.under-your-feed{
+    display:flex;
+    justify-content: space-evenly;
+}
+.left-nav{
+    outline-style: solid;
+}
+
+.left-nav p{
+    margin:45px;
+}
+.left-nav h2{
+    margin:40px;
+}
+
+img{
+    height:100px;
+    margin: 40px;
+}
+.right-nav{
+    width: 400px;
+}
+
+.message{
+    margin:20px;
+}
+
+button{
+    height:20px;
+    margin: 20px;
+}
+.user1{
+    outline-style: solid;
+}
+
+.top-of-message1{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+
+.user2{
+    outline-style: solid;
+}
+
+.top-of-message2{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.user3{
+    outline-style: solid;
+
+}
+
+.top-of-message3{
+    display:flex;
+    justify-content: space-evenly;
+}
